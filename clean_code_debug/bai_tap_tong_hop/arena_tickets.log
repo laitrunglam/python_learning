@@ -1,0 +1,38 @@
+2026-06-09 21:32:50,331 - INFO - User viewed ticket list
+2026-06-09 21:33:26,485 - INFO - User viewed ticket list
+2026-06-09 21:41:36,230 - ERROR - 'status'
+2026-06-09 21:41:36,230 - INFO - User viewed ticket list
+2026-06-09 22:43:41,497 - WARNING - Duplicate ticket ID entered T01
+2026-06-09 22:44:11,891 - INFO - Booked new ticket T04 for PHAM VAN D
+2026-06-09 22:44:13,753 - INFO - User viewed ticket list
+2026-06-09 22:46:21,435 - WARNING - Invalid price input while booking ticket
+2026-06-09 22:46:30,551 - INFO - Booked new ticket T06 for DO VAN F
+2026-06-09 23:07:51,500 - INFO - Seat changed for ticket T01 to ('B', 10)
+2026-06-09 23:08:06,940 - INFO - User viewed ticket list
+2026-06-09 23:08:31,751 - WARNING -  Change seat failed - Ticket T99 not found
+2026-06-09 23:08:55,544 - INFO - Seat changed for ticket T01 to ('D', 20)
+2026-06-09 23:10:37,217 - INFO - Seat changed for ticket T01 to ('B', 19)
+2026-06-09 23:27:19,649 - WARNING - Ticket T03 has been cancelled.
+2026-06-09 23:27:19,650 - WARNING - Cancel ticket failed - Ticket T03not found
+2026-06-09 23:27:51,366 - WARNING - Ticket T03 has been cancelled.
+2026-06-09 23:28:14,719 - WARNING - Cancel ticket failed - Ticket T99not found
+2026-06-09 23:55:02,555 - INFO - Revenue report generated. Total: 1000.0
+2026-06-09 23:56:07,064 - INFO - Revenue report generated. Total: 1000.0
+2026-06-09 23:56:18,121 - INFO - Revenue report generated. Total: 1000.0
+2026-06-09 23:56:33,712 - INFO - Revenue report generated. Total: 500.0
+2026-06-09 23:56:52,472 - INFO - Revenue report generated. Total: 500.0
+2026-06-09 23:58:32,516 - INFO - Revenue report generated. Total: 500.0
+2026-06-10 00:19:08,631 - INFO - Revenue report generated. Total: 500.0
+2026-06-10 00:22:13,603 - INFO - Revenue report generated. Total: 1000.0
+2026-06-10 00:24:30,331 - ERROR - - ERROR - Missing key while calculating revenue: 'price'
+2026-06-10 08:39:36,151 - INFO - User viewed ticket list
+2026-06-10 08:40:11,310 - INFO - User viewed ticket list
+2026-06-10 08:43:17,871 - INFO - Revenue report generated. Total: 1000.0
+2026-06-10 08:54:30,901 - INFO - Revenue report generated. Total: 1300.0
+2026-06-10 08:55:32,363 - INFO - Revenue report generated. Total: 1300.0
+2026-06-10 08:57:15,573 - INFO - Revenue report generated. Total: 1300.0
+2026-06-10 08:58:11,114 - INFO - Revenue report generated. Total: 1000.0
+2026-06-10 08:59:06,188 - INFO - Revenue report generated. Total: 1000.0
+2026-06-10 11:13:34,108 - INFO - User viewed ticket list
+2026-06-10 11:13:59,034 - ERROR - 'price'
+2026-06-10 11:13:59,034 - INFO - User viewed ticket list
